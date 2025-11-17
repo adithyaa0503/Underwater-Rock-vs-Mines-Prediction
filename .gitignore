@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Data files (if you don't want to push large CSVs)
+# But per your choice, you will include sonar_data.csv in data/
+*.csv
+
+
+# Virtual environment
+venv/
+.env/
+
+
+# Models and outputs
+models/
+images/
+
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# VSCode
+.vscode/
