@@ -1,0 +1,21 @@
+Underwater-Rock-vs-Mines-Classification/
+│
+├── data/
+│ └── sonar_data.csv
+│
+├── notebooks/
+│ └── EDA_and_Modeling.ipynb # notebook skeleton shown below
+│
+├── src/
+│ ├── preprocess.py
+│ ├── train.py
+│ ├── evaluate.py
+│ └── utils.py
+│
+├── models/ # output folder (created by train.py)
+│
+├── images/ # output folder (created by train.py)
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
